@@ -16,7 +16,7 @@ Trocar lâmpada
 5.Pegar lâmpada nova(mesmo tipo)
 6.Encaixar a lâmpada nova
 7.Girar pra direita até travar 
-8.Descer da escada/cadeira
+8.Descer da escada/cadeiraa
 9.Ligar a luz para testar
 10.Verificar se está funcionando
 
